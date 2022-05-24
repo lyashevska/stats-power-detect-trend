@@ -1,0 +1,1 @@
+# stats-power-detect-trend
