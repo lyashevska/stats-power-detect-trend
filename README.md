@@ -1,1 +1,4 @@
 # stats-power-detect-trend
+
+Power analysis can be used to evaluate and optimise monitoring efforts at a range of scales. Using a single platform line transect survey data (Phocoena phocoena) and mixed GAM estimates with a zero-inflated distribution and detection offsets, abundance data was simulated with known properties and with a given local abundance decline. For each dataset, a distance function was fitted from which abundance was calculated and compared with a baseline of no change. The
+significance of the slope over time was used to calculate the power to detect change in abundance as a function of survey design. High power was achieved only at considerable abundance decline.
